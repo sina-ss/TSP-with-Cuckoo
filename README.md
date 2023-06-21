@@ -33,7 +33,3 @@ Total distance: 12.8754234567
 ```
 
 ![Example of output plot](plot.png)
-
----
-
-Remember to replace `plot.png` with the actual path to the image file of your plot. If you're using GitHub, you can include the image in your repository and reference it directly in your `README.md` file.
